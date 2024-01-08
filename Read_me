@@ -4,5 +4,4 @@ Here is the next task for you.
 We have a route planner in our PilotX project.
 In the main branch, there is a PNG file named "Advanced_AI" and a sample text file named "sample.txt." Your task is to create a new .txt file and replicate the text from "sample.txt" into it. Afterward, develop a Python code that generates a route planner 
 using data from the sample text file. Utilize the "Advanced_AI.png" file as the background image for this route planner.
-
 Additionally, there is a file with the name, sample_turtle_code which you can use for reference.
